@@ -46,11 +46,11 @@ I approach every challenge as an opportunity to understand the core problem, lev
 - Implement cross-platform testing and automation strategies
 - Provide end-to-end technical consulting
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
 ![Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthprudence&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthprudence&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthprudence&layout=compact&theme=radical) -->
 
 ### Active Repositories
 
