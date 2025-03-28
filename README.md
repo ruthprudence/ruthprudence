@@ -1,4 +1,4 @@
-# Ruth Prudence | Testing, Development, Design
+# Ruth Prudence | Testing, Development, Analysis, Design
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruthprudence&color=blueviolet)
 
