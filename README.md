@@ -54,8 +54,9 @@ I approach every challenge as an opportunity to understand the core problem, lev
 
 ### Active Repositories
 
-- [Petrochemical Dashboard](https://github.com/ruthprudence/petrochem-dashboard)
-- [Ranking Game](https://github.com/ruthprudence/ranking-game)
+- [Petrochemical Dashboard (Python)](https://github.com/ruthprudence/petrochem-dashboard)
+- [Ranking Game (JavaScript)](https://github.com/ruthprudence/ranking-game)
+- [Network Pulse Diagnostics (C#)](https://github.com/ruthprudence/Network-Pulse-Diagnostics)
 
 ### Connect
 
