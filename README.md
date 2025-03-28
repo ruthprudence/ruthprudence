@@ -1,4 +1,4 @@
-# Ruth Prudence | Problem Solver & System Enhancer
+# Ruth Prudence | Testing, Development, Design
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruthprudence&color=blueviolet)
 
