@@ -65,3 +65,12 @@ I approach every challenge as an opportunity to understand the core problem, lev
 - 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
 
 *No matter how vast the darkness, we must provide our own light.* --Stanley Kubrick
+
+*In the midst of winter, I found there was, within me, an invincible summer.* --Albert Camus
+
+*What then is your duty? What the day demands.* -—Johann Wolfgang von Goethe
+
+*Science is the belief in the ignorance of experts.* --Richard Feynman
+
+
+
