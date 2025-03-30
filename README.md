@@ -64,4 +64,4 @@ I approach every challenge as an opportunity to understand the core problem, lev
 - 📧 work@ruthprudence.com
 - 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
 
-*Continuously learning, systematically improving*
+*No matter how vast the darkness, we must provide our own light.* --Stanley Kubrick
