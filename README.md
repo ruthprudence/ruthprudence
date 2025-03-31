@@ -13,12 +13,6 @@ I approach every challenge as an opportunity to understand the core problem, lev
 - [Personal Site](https://ruthprudence.com/) | [PHP (WordPress)](https://github.com/ruthprudence/ruthprudence.com)
 - [Network Pulse Diagnostics (C#)](https://github.com/ruthprudence/Network-Pulse-Diagnostics)
 
-### Connect
-
-- 📧 work@ruthprudence.com
-- 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
-- 
-
 ### Career Highlights
 
 #### Meta (2020-2023)
@@ -64,6 +58,11 @@ I approach every challenge as an opportunity to understand the core problem, lev
 - Jenkins
 - Puppet
 - Cloud QA Platforms
+
+- ### Connect
+
+- 📧 work@ruthprudence.com
+- 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
 
 *No matter how vast the darkness, we must provide our own light.* --Stanley Kubrick
 
