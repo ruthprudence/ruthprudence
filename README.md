@@ -6,28 +6,18 @@
 
 I approach every challenge as an opportunity to understand the core problem, leveraging available resources and technologies to create sustainable solutions. My work is less about the tools themselves and more about systematically improving processes, leaving systems, teams, and technologies more efficient and robust than I found them. Whether it's through code, documentation, mentorship, or strategic problem-solving, my goal is to create lasting positive impact.
 
-### Technical Toolkit
+### Active Repositories
 
-**Programming Languages**
-- Python 🐍
-- JavaScript 📜
-- Java ☕
-- PHP
-- HTML/CSS
+- [Petrochemical Dashboard](http://165.1.68.109:8501/) | [Python (Streamlit)](https://github.com/ruthprudence/petrochem-dashboard)
+- [Ranking Game](https://rg.ruthprudence.com/) | [JavaScript (React)](https://github.com/ruthprudence/ranking-game)
+- [Personal Site](https://ruthprudence.com/) | [PHP (WordPress)](https://github.com/ruthprudence/ruthprudence.com)
+- [Network Pulse Diagnostics (C#)](https://github.com/ruthprudence/Network-Pulse-Diagnostics)
 
-**Development & Testing**
-- Selenium
-- Cypress
-- Espresso
-- WordPress
-- CI/CD Pipelines
+### Connect
 
-**Infrastructure & Tools**
-- Linux
-- Git
-- Jenkins
-- Puppet
-- Cloud QA Platforms
+- 📧 work@ruthprudence.com
+- 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
+- 
 
 ### Career Highlights
 
@@ -52,17 +42,28 @@ I approach every challenge as an opportunity to understand the core problem, lev
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthprudence&layout=compact&theme=radical) -->
 
-### Active Repositories
+### Technical Toolkit
 
-- [Petrochemical Dashboard](http://165.1.68.109:8501/) | [Python (Streamlit)](https://github.com/ruthprudence/petrochem-dashboard)
-- [Ranking Game](https://rg.ruthprudence.com/) | [JavaScript (React)](https://github.com/ruthprudence/ranking-game)
-- [Personal Site](https://ruthprudence.com/) | [PHP (WordPress)](https://github.com/ruthprudence/ruthprudence.com)
-- [Network Pulse Diagnostics (C#)](https://github.com/ruthprudence/Network-Pulse-Diagnostics)
+**Programming Languages**
+- Python 🐍
+- JavaScript 📜
+- Java ☕
+- PHP
+- HTML/CSS
 
-### Connect
+**Development & Testing**
+- Selenium
+- Cypress
+- Espresso
+- WordPress
+- CI/CD Pipelines
 
-- 📧 work@ruthprudence.com
-- 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
+**Infrastructure & Tools**
+- Linux
+- Git
+- Jenkins
+- Puppet
+- Cloud QA Platforms
 
 *No matter how vast the darkness, we must provide our own light.* --Stanley Kubrick
 
