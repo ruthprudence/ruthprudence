@@ -59,7 +59,7 @@ I approach every challenge as an opportunity to understand the core problem, lev
 - Puppet
 - Cloud QA Platforms
 
-- ### Connect
+### Connect
 
 - 📧 work@ruthprudence.com
 - 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
