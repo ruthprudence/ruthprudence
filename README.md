@@ -38,26 +38,13 @@ I approach every challenge as an opportunity to understand the core problem, lev
 
 ### Technical Toolkit
 
-**Programming Languages**
-- Python 🐍
-- JavaScript 📜
-- Java ☕
-- PHP
-- HTML/CSS
-
-**Development & Testing**
-- Selenium
-- Cypress
-- Espresso
-- WordPress
-- CI/CD Pipelines
-
-**Infrastructure & Tools**
-- Linux
-- Git
-- Jenkins
-- Puppet
-- Cloud QA Platforms
+| **Programming Languages** | **Development & Testing** | **Infrastructure & Tools** |
+|---|---|---|
+| Python 🐍 | Selenium | Linux |
+| JavaScript 📜 | Cypress | Git |
+| Java ☕ | Espresso | Jenkins |
+| PHP | WordPress | Puppet |
+| HTML/CSS | CI/CD Pipelines | Cloud QA Platforms |
 
 ### Connect
 
