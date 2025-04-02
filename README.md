@@ -8,10 +8,11 @@ I approach every challenge as an opportunity to understand the core problem, lev
 
 ### Active Repositories
 
-- [Petrochemical Dashboard](http://165.1.68.109:8501/) | [Python (Streamlit)](https://github.com/ruthprudence/petrochem-dashboard)
-- [Ranking Game](https://rg.ruthprudence.com/) | [JavaScript (React)](https://github.com/ruthprudence/ranking-game)
-- [Personal Site](https://ruthprudence.com/) | [PHP (WordPress)](https://github.com/ruthprudence/ruthprudence.com)
-- [Network Pulse Diagnostics (C#)](https://github.com/ruthprudence/Network-Pulse-Diagnostics)
+- Java Automated Testing (Selenium, Maven, TestNG) | [GitHub](https://github.com/ruthprudence/qae)
+- [Python Petrochemical Dashboard (Streamlit)](http://165.1.68.109:8501/) | [GitHub](https://github.com/ruthprudence/petrochem-dashboard)
+- [JavaScript Ranking Game (React, Redux)](https://rg.ruthprudence.com/) | [GitHub](https://github.com/ruthprudence/ranking-game)
+- [PHP Personal Site (WordPress)](https://ruthprudence.com/) | [GitHub](https://github.com/ruthprudence/ruthprudence.com)
+- C# Network Pulse Diagnostics [GitHub](https://github.com/ruthprudence/Network-Pulse-Diagnostics)
 
 ### Career Highlights
 
@@ -41,10 +42,10 @@ I approach every challenge as an opportunity to understand the core problem, lev
 | **Programming Languages** | **Development & Testing** | **Infrastructure & Tools** |
 |---|---|---|
 | Python 🐍 | Selenium | Linux |
-| JavaScript 📜 | Cypress | Git |
-| Java ☕ | Espresso | Jenkins |
-| PHP | WordPress | Puppet |
-| HTML/CSS | CI/CD Pipelines | Cloud QA Platforms |
+| JavaScript 📜 | Jest | Git |
+| Java ☕ | HTML/CSS | Jenkins |
+| PHP | WordPress | Mercurial |
+|  |  | Cloud QA Platforms |
 
 ### Connect
 
