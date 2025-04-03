@@ -38,7 +38,7 @@ I approach every challenge as an opportunity to understand the core problem, lev
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthprudence&layout=compact&theme=radical) -->
 
 ### Technical Toolkit
-
+#### Professional Experiences
 | **Programming Languages** | **Development & Testing** | **Infrastructure & Tools** |
 |---|---|---|
 | Python 🐍 | Selenium | Linux |
@@ -46,6 +46,13 @@ I approach every challenge as an opportunity to understand the core problem, lev
 | Java ☕ | HTML/CSS | Jenkins |
 | PHP | WordPress | Mercurial |
 |  |  | Cloud QA Platforms |
+
+#### Personal Hobbyist
+| **Software** | **Hardware** | **Accessories** |
+|---|---|---|
+| VS Code | [M1 MacBook Air](https://support.apple.com/en-us/111883)  | [Logitech MX Ergo Wireless Trackball Mouse](https://www.logitech.com/en-us/shop/p/mx-ergo-wireless-trackball-mouse) |
+| Vim | [reMarkable 2](https://remarkable.com/store/remarkable-2)  | |
+| Postman | | |
 
 ### Connect
 
@@ -153,14 +160,15 @@ Seeing systems work makes me happy, while understanding *how* they operate bring
 
 ---
 
-### Favorite Resources
+### Favorites and Recommendations
 
-#### Books
-- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+#### Books and Exercises
+| **Books** | **Exercises** |
+|---|---|
+| [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) | [Coding Bat](https://codingbat.com/java) |
+| | [Khan Academy](https://www.khanacademy.org/) |
 
-#### Exercises
-- [Coding Bat (Java, Python)](https://codingbat.com/java) 
-- [Khan Academy](https://www.khanacademy.org/)
+
 
 ---
 
