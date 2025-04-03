@@ -58,10 +58,10 @@ I credit my parents for fostering my interests in water and energy from an early
 
 ![The Magic School Bus at the Waterworks](./media/img/msb.jpg)
 [The Magic School Bus -- At the Waterworks](https://en.wikipedia.org/wiki/The_Magic_School_Bus_at_the_Waterworks_)
-
+---
 In fourth grade my mom brought home an expensive Personal Computer, an Acer 486 DXII 50Mhz computer with a 420Mb harddrive a 2Mb of RAM, which I upgraded to 4Mb. four *mega* bytes of RAM :)
 
----
+
 ![DOS for Dummies](./media/img/dos.jpg)
 
 I learned enough DOS to install games and keep the computer operational, and this was the early days of home internet with 9600 baud modems that tied up the phone lines (we were crazy about the new game "Warcraft II"), but I never learned how to program. Even though I completed the "Computing" merit badge through the local scout troop, I didn't really understand the gadgets that I loved and used every day.
@@ -115,7 +115,7 @@ Being able to build things and craft my own environment are extremely important 
 
 #### Starting From the Bottom
 
-I first began programming during the summer of 2012, while I was living in Nebraska: I visited [Nick Parlante](https://cs.stanford.edu/people/nick/)'s [Coding Bat](https://codingbat.com/java) and truly started at the very basics. I moved to Seattle and immediately enrolled in community college classes, eventually earning an Associate's Degree in IT -- Web Development. 
+I first began programming during the summer of 2012, while I was living in Nebraska: I visited [Nick Parlante](https://cs.stanford.edu/people/nick/)'s website and truly started at the very basics. I moved to Seattle and immediately enrolled in community college classes, eventually earning an Associate's Degree in IT -- Web Development. 
 
 #### Fintech
 My first job after retraining was as a temp with a Seattle fintech startup, who initially brought me on to answer emails and address reviews from the Better Business Bureau (BBB). I took over several of the frontline support emails (which were re-rerouted to me) and I initially implemented boilerplate-components that I used to massively reduce the time this task used to take. Since I kept my eye on the BBB reviews and the inbox from addresses sent to me near zero, I asked what else I could help with--there was plenty. 
@@ -137,9 +137,28 @@ I was re-hired by Meta for a different team, dealing with Augmented Reality (AR)
 
 ---
 
-All of the coding jobs I've held never had AI or an LLM to help assist..but previous generations also didn't have StackOverflow, or the internet, so the toolsets keep changing.
+All of the coding jobs I've held never had AI or an LLM to help assist..but previous generations also didn't have StackOverflow, or the internet, so the toolsets keep changing. 
 
-At my core I am someone driven to problem-solve, find solutions and create successful processes. While AI will probably take many people's coding jobs away, writing computer code is something that brings me delight, because seeing systems work makes me happy, while understanding *how* they work brings me peace.
+When I was younger, I loved technology but didn't really understand how everything worked. Now, there are plenty of things I don't understand: biology, chemistry, higher math--but I *do* understand technology enough to be able to explain from the atomic level what is going on: how electricity and signals work at each level and where the bottlenecks are--and, on top of the physical world, I understand where the bottlenecks are in the digital world as well. 
+
+I've learned how to incorporate object-oriented development when needed, while also practing functional programming (pure functions). I've written solutions in JavaScript, Java, and Python, and have learned design patters to implement for whatever the task calls for. I'm familiar with scaling and optimizing and writing asynchronous code. I can program from the comfort of VS Code on my mac, or also through Vim in remote cloud instances (I prefer Oracle, but I have experience with AWS, GCP, and Azure). I read logs to see what happened and determine the root-cause: I love bringing all the pieces together.
+
+At my core I am someone driven to problem-solve, find solutions and create successful processes.
+
+Writing computer code is something that brings me delight.'
+
+Seeing systems work makes me happy, while understanding *how* they operate brings me **peace**.
+
+---
+
+### Favorite Resources
+
+#### Books
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+
+#### Exercises
+- [Coding Bat (Java, Python)](https://codingbat.com/java) 
+- [Khan Academy](https://www.khanacademy.org/)
 
 ---
 
