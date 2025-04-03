@@ -147,7 +147,7 @@ At my core I am someone driven to problem-solve, find solutions and create succe
 
 ![Some Tools](./media/img/tools.jpg)
 
-Writing computer code is something that brings me delight.'
+Writing computer code is something that brings me delight.
 
 Seeing systems work makes me happy, while understanding *how* they operate brings me **peace**.
 
