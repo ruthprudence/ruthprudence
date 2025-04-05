@@ -64,16 +64,25 @@ I approach every challenge as an opportunity to understand the core problem, lev
 I credit my parents for fostering my interests in water and energy from an early age, with field trips to museums, private schooling, visits to libraries and a trillion ways they encouraged critical thinking, persistence, and creativity. My parents bought us so many books, and provided paper bags filled with random wires, batteries, magnets, and enough questions to keep my imagination piqued.
 
 [![The Magic School Bus at the Waterworks](./media/img/msb.jpg)](https://en.wikipedia.org/wiki/The_Magic_School_Bus_at_the_Waterworks_)
-*The Magic Schoolbus -- At the Waterworks, one of the many ways my mom and dad encouraged interests.*
+
+
+> *The Magic Schoolbus -- At the Waterworks*
+>
+> My mom and dad--they gave me so much.
 
 ---
 In fourth grade my mom brought home our first (expensive) Personal Computer, an Acer 486 DXII 50Mhz computer with 420Mb of harddrive storage and 2MB of included RAM, (which we later upgraded to a whopping 4MB, by lugging the entire large desktop case to a local computer store. Good times.)
 
 [![DOS for Dummies](./media/img/dos.jpg)](https://openlibrary.org/books/OL1442455M/DOS_for_dummies)
+>*DOS for Dummies* -- another gift from my mom. In fifth grade I read this on the schoolbus, I've been using manuals, guides and documentation my entire life.
 
-I learned enough DOS to install games and keep the computer operational, and this was the early days of home internet with 9600 baud modems that tied up the phone lines (we were crazy about the new game "Warcraft II"), but I never learned how to program. Even though I completed the "Computing" merit badge through the local scout troop, I didn't really understand the gadgets that I loved and used every day.
+I learned enough DOS to install games and keep the computer operational, and this was the early days of home internet with 9600 baud modems that tied up the phone lines (we were crazy about the new game "Warcraft II").
 
-My friend helped me wire my mom's house with CAT-V ethernet cable--although I hadn't taken any Computer Science courses or pursued tech as a career, I learned enough to set up routers and modems and networks and get systems online. I would edit windows registry files to get my things working, and I had modest knowledge of some computer things, and downloaded movies and music through private servers, but I didn't really understand how anything *truly* worked. Still, I installed things like [DD-WRT](https://dd-wrt.com/) on old routers, and knew enough about NAS to keep backups of everything distributed throughout the house.
+My friend helped me wire my mom's house with CAT-V ethernet cable--although I hadn't taken any Computer Science courses or pursued tech as a career, I learned enough to set up routers and modems and networks and get systems online.
+
+I would edit windows registry files to get my things working, and I had modest knowledge and downloaded movies and music through private servers, but I didn't really understand how anything *really* worked. Still, I installed things like [DD-WRT](https://dd-wrt.com/) on old routers, and knew enough about NAS to keep backups of everything distributed throughout the house.
+
+---
 
 I was teaching overseas (teaching English in Japan) when I saw the film "An Inconvenient Truth," which motivated me to return to the US for grad school in the environment. After returning to Michigan I found work as a Microcomputer Repair Technician at a major hospital, because of my history building, tinkering, and repairing machines, and it was a job I only left because of grad school. During grad school, I learned a lot about Natural Resources, and resource economics and public vs private vs government interests, and [how common goods can lead to tragedy](https://en.wikipedia.org/wiki/Tragedy_of_the_commons).
 
