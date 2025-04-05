@@ -61,15 +61,15 @@ I approach every challenge as an opportunity to understand the core problem, lev
 
 ### Personal Journey and Projects
 
-I credit my parents for fostering my interests in water and energy from an early age, with field trips to museums, private schooling, visits to libraries and a trillion ways they encouraged critical thinking, persistence, and creativity. My parents bought us so many books, my mom gifted me a copy of [The Magic School Bus -- At the Waterworks](https://en.wikipedia.org/wiki/The_Magic_School_Bus_at_the_Waterworks_) and my dad provided paper bags filled with random wires, batteries, magnets, and enough questions to keep my imagination piqued.
+I credit my parents for fostering my interests in water and energy from an early age, with field trips to museums, private schooling, visits to libraries and a trillion ways they encouraged critical thinking, persistence, and creativity. My parents bought us so many books, and provided paper bags filled with random wires, batteries, magnets, and enough questions to keep my imagination piqued.
 
-![The Magic School Bus at the Waterworks](./media/img/msb.jpg)
-[The Magic School Bus -- At the Waterworks](https://en.wikipedia.org/wiki/The_Magic_School_Bus_at_the_Waterworks_)
+[![The Magic School Bus at the Waterworks](./media/img/msb.jpg)](https://en.wikipedia.org/wiki/The_Magic_School_Bus_at_the_Waterworks_)
+*The Magic Schoolbus -- At the Waterworks, one of the many ways my mom and dad encouraged interests.*
+
 ---
-In fourth grade my mom brought home an expensive Personal Computer, an Acer 486 DXII 50Mhz computer with a 420Mb harddrive a 2Mb of RAM, which I upgraded to 4Mb. four *mega* bytes of RAM :)
+In fourth grade my mom brought home our first (expensive) Personal Computer, an Acer 486 DXII 50Mhz computer with 420Mb of harddrive storage and 2MB of included RAM, (which we later upgraded to a whopping 4MB, by lugging the entire large desktop case to a local computer store. Good times.)
 
-
-![DOS for Dummies](./media/img/dos.jpg)
+[![DOS for Dummies](./media/img/dos.jpg)](https://openlibrary.org/books/OL1442455M/DOS_for_dummies)
 
 I learned enough DOS to install games and keep the computer operational, and this was the early days of home internet with 9600 baud modems that tied up the phone lines (we were crazy about the new game "Warcraft II"), but I never learned how to program. Even though I completed the "Computing" merit badge through the local scout troop, I didn't really understand the gadgets that I loved and used every day.
 
@@ -162,7 +162,7 @@ Seeing systems work makes me happy, while understanding *how* they operate bring
 
 ### Favorites and Recommendations
 
-#### Books and Exercises
+#### CS/Programming Books and Exercises
 | **Books** | **Exercises** |
 |---|---|
 | [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) | [Coding Bat](https://codingbat.com/java) |
