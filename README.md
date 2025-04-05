@@ -4,15 +4,9 @@
 
 ## Bio
 
-I approach every challenge as an opportunity to understand the core problem, leveraging available resources and technologies to create sustainable solutions. My work is less about the tools themselves and more about systematically improving processes, leaving systems, teams, and technologies more efficient and robust than I found them. Whether it's through code, documentation, mentorship, or strategic problem-solving, my goal is to create lasting positive impact.
+I am built for problem solving. I approach every challenge as an opportunity to understand the core issue (some might call this "first principles"), leveraging available resources and technologies to create sustainable solutions. If it doesn't work every time, it doesn't work.
 
-### Active Repositories
-
-- Java Automated Testing (Selenium, Maven, TestNG) | [GitHub](https://github.com/ruthprudence/qae)
-- [Python Petrochemical Dashboard (Streamlit)](http://165.1.68.109:8501/) | [GitHub](https://github.com/ruthprudence/petrochem-dashboard)
-- [JavaScript Ranking Game (React, Redux)](https://rg.ruthprudence.com/) | [GitHub](https://github.com/ruthprudence/ranking-game)
-- [PHP Personal Site (WordPress)](https://ruthprudence.com/) | [GitHub](https://github.com/ruthprudence/ruthprudence.com)
-- C# Network Pulse Diagnostics [GitHub](https://github.com/ruthprudence/Network-Pulse-Diagnostics)
+I achieve great success by systematically improving processes, leaving people and projects better than when I arrived. Whether it's through code, documentation, mentorship, or strategic problem-solving, my goal is to create lasting positive impact.
 
 ### Career Highlights
 
@@ -31,6 +25,19 @@ I approach every challenge as an opportunity to understand the core problem, lev
 - Implement cross-platform testing and automation strategies
 - Provide end-to-end technical consulting
 
+### Active Repositories
+My professional experience includes building testing infrastructure (writing server code, provisioning machines, routing, permissions, databases, logging), writing testing code (Python, JavaScript, Java) and coordinating with stakeholders to ensure requirements (frontend, backend, and testing) are satisfied.
+
+Personally, my latest projects are:
+
+- Java Automated Testing (Selenium, Maven, TestNG) | [GitHub](https://github.com/ruthprudence/qae)
+- [Python Petrochemical Dashboard (Streamlit)](http://165.1.68.109:8501/) | [GitHub](https://github.com/ruthprudence/petrochem-dashboard)
+- [JavaScript Ranking Game (React, Redux)](https://rg.ruthprudence.com/) | [GitHub](https://github.com/ruthprudence/ranking-game)
+- [PHP Personal Site (WordPress)](https://ruthprudence.com/) | [GitHub](https://github.com/ruthprudence/ruthprudence.com)
+- C# Network Pulse Diagnostics [GitHub](https://github.com/ruthprudence/Network-Pulse-Diagnostics)
+
+
+
 <!-- ### GitHub Stats
 
 ![Ruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthprudence&show_icons=true&theme=radical)
@@ -47,7 +54,7 @@ I approach every challenge as an opportunity to understand the core problem, lev
 | PHP | WordPress | Mercurial |
 |  |  | Cloud QA Platforms |
 
-#### Personal Hobbyist
+#### Preferences
 | **Software** | **Hardware** | **Accessories** |
 |---|---|---|
 | VS Code | [M1 MacBook Air](https://support.apple.com/en-us/111883)  | [Logitech MX Ergo Wireless Trackball Mouse](https://www.logitech.com/en-us/shop/p/mx-ergo-wireless-trackball-mouse) |
@@ -74,7 +81,7 @@ I credit my parents for fostering my interests in water and energy from an early
 In fourth grade my mom brought home our first (expensive) Personal Computer, an Acer 486 DXII 50Mhz computer with 420Mb of harddrive storage and 2MB of included RAM, (which we later upgraded to a whopping 4MB, by lugging the entire large desktop case to a local computer store. Good times.)
 
 [![DOS for Dummies](./media/img/dos.jpg)](https://openlibrary.org/books/OL1442455M/DOS_for_dummies)
->*DOS for Dummies* -- another gift from my mom. In fifth grade I read this on the schoolbus, I've been using manuals, guides and documentation my entire life.
+>*DOS for Dummies* -- another gift from my mom.In fifth grade I read this on the schoolbus, I've been using manuals, guides and documentation my entire life.
 
 I learned enough DOS to install games and keep the computer operational, and this was the early days of home internet with 9600 baud modems that tied up the phone lines (we were crazy about the new game "Warcraft II").
 
@@ -118,13 +125,6 @@ I ended up augmenting a display panel to the interior front of the vehicle so I 
 
 You can read more about it on my website: [Consumer Solar @ Ruth Prudence.com](https://ruthprudence.com/solar/)
 
-#### Future Physical Projects
-I would like to build/develop:
-- rainwater harvesting system
-- dehumidifier system that feeds indoor house plants
-- radio receiver to sense utility meter signals
-- mobile RV with solar panels and water harvesting abilities
-
 ---
 ### CS Professional Experiences
 Being able to build things and craft my own environment are extremely important to I, personally. However, at the same time, while the physical environment is limited (resources are scarce, knowledge isn't shared), the world of Computer Science is quite the opposite: while there is a very real, physical cost to processing, storage, and pipelines, there is an abundance of shared knowledge and wisdom, on sites like StackOverflow and places like this one (GitHub). When people find something that works, they want to share it, see it spread and grow, and the rate of innovation and progress is such a rush!
@@ -155,7 +155,14 @@ I was re-hired by Meta for a different team, dealing with Augmented Reality (AR)
 
 All of the coding jobs I've held never had AI or an LLM to help assist..but previous generations also didn't have StackOverflow, or the internet, so the toolsets keep changing. 
 
-When I was younger, I loved technology but didn't really understand how everything worked. Now, there are plenty of things I don't understand: biology, chemistry, higher math--but I *do* understand technology enough to be able to explain from the atomic level what is going on: how electricity and signals work at each level and where the bottlenecks are--and, on top of the physical world, I understand where the bottlenecks are in the digital world as well. 
+When I was younger, I loved technology but didn't really understand how everything worked. Now, there are plenty of things I don't understand: biology, chemistry, higher math--but I *do* understand technology enough to be able to explain from the atomic level what is going on: how electricity and signals work at each level and where the bottlenecks are--and, on top of the physical world, I understand where the bottlenecks are in the digital world as well, and continue to push myself to learn every day.
+
+[![The C Programming Language](./media/img/clang.jpg)](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf)
+
+
+> *The C Programming Language*
+>
+> One of the many books I've read that has helped light the way.
 
 I've learned how to incorporate object-oriented development when needed, while also practing functional programming (pure functions). I've written solutions in JavaScript, Java, and Python, and have learned design patters to implement for whatever the task calls for. I'm familiar with scaling and optimizing and writing asynchronous code. I can program from the comfort of VS Code on my mac, or also through Vim in remote cloud instances (I prefer Oracle, but I have experience with AWS, GCP, and Azure). I read logs to see what happened and determine the root-cause: I love bringing all the pieces together.
 
@@ -167,6 +174,12 @@ Writing computer code is something that brings me delight.
 
 Seeing systems work makes me happy, while understanding *how* they operate brings me **peace**.
 
+#### Future Physical Projects
+I would like to build/develop:
+- rainwater harvesting system
+- dehumidifier system that feeds indoor house plants
+- radio receiver to sense utility meter signals
+- mobile RV with solar panels and water harvesting abilities
 ---
 
 ### Favorites and Recommendations
