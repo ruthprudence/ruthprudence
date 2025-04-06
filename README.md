@@ -98,6 +98,9 @@ I would edit windows registry files to get my things working, and I had modest k
 I was teaching overseas (teaching English in Japan) when I saw the film "An Inconvenient Truth," which motivated me to return to the US for grad school in the environment. After returning to Michigan I found work as a Microcomputer Repair Technician at a major hospital, because of my history building, tinkering, and repairing machines, and it was a job I only left because of grad school. During grad school, I learned a lot about Natural Resources, and resource economics and public vs private vs government interests, and [how common goods can lead to tragedy](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), and how "good mechanisms beat good intentions."
 
 [![Stop Faking It! Electricity and Magnetism](./media/img/sfi.jpg)](https://www.nsta.org/book-series/stop-faking-it#tab-books)
+>*Stop Faking It! Electricity and Magnetism*'
+>
+>Helped with my intuitive understanding of how certain processes elapse.
 
 I was very interested in renewable energy, not just from a policy or academic level, but from an intimate, intuitive perspective. After completing my graduate school studies a thesis project the first project I built was a lawn-mower turned into a AC electrical generator.
 
@@ -169,11 +172,9 @@ From there, I worked briefly for a San Francisco heavyweight (Ultimate Software)
 I worked at AT&T doing similar automation work for a web app--they needed regression tests written for an app that could be run right before go-lives. Instead of Python they asked for something in Java, so I built a system with Java using Maven and TestNG to model testing scenarios and output results. Although it wasn't my first time having sole responsibility for a project, it was my first time not only being responsible for building something complete from scratch, I also had to explain each part or decision to a general business audience, who didn't want the nitty-gritty details, but enough to ensure that the project was going forward as planned. This was a lot of fun that got cut due to Covid-19.
 
 [![The C Programming Language](./media/img/clang.jpg)](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf)
-
-
 > *The C Programming Language*
 >
-> One of the many books I've read that has helped light the way.
+> One of the many books I've read that helped light the way.
 
 #### Facebook Reality Labs -- Meta, part I
 Over the pandemic, I was hired to work remotely while a team-member was going on maternity leave--I would step in for 3 months, writing automated tests for Virtual Reality (VR) devices first locally, and then in a testing lab. This was my first time connecting devices to my computer and being able to read / interact with them: the VR headsets used adb to send commands back and forth, and used Qualcomm chips (which had unique attributes).
@@ -197,6 +198,7 @@ On top of the physical world, I understand where the bottlenecks are in the digi
 I am someone driven to problem-solve, find solutions and create successful processes.
 
 ![Some Tools](./media/img/tools.jpg)
+>Whatever the problem, there is a solution.
 
 #### Future Physical Projects
 I would like to build/develop:
