@@ -25,6 +25,23 @@ I achieve great success by systematically improving processes, leaving people an
 - Implement cross-platform testing and automation strategies
 - Provide end-to-end technical consulting
 
+### Technical Toolkit
+#### Professional Experiences
+| **Programming Languages** | **Development & Testing** | **Infrastructure & Tools** |
+|---|---|---|
+| Python 🐍 | Selenium | Linux |
+| JavaScript 📜 | Jest | Git |
+| Java ☕ | HTML/CSS | Jenkins |
+| PHP | WordPress | Mercurial |
+|  |  | Cloud QA Platforms |
+
+#### Preferences
+| **Software** | **Hardware** | **Accessories** |
+|---|---|---|
+| VS Code | [M1 MacBook Air](https://support.apple.com/en-us/111883)  | [Logitech MX Ergo Wireless Trackball Mouse](https://www.logitech.com/en-us/shop/p/mx-ergo-wireless-trackball-mouse) |
+| Vim | [reMarkable 2](https://remarkable.com/store/remarkable-2)  | |
+| Postman | | |
+
 ### Active Repositories
 My professional experience includes building testing infrastructure (writing server code, provisioning machines, routing, permissions, databases, logging), writing testing code (Python, JavaScript, Java) and coordinating with stakeholders to ensure requirements (frontend, backend, and testing) are satisfied.
 
@@ -44,22 +61,7 @@ Personally, my latest projects are:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthprudence&layout=compact&theme=radical) -->
 
-### Technical Toolkit
-#### Professional Experiences
-| **Programming Languages** | **Development & Testing** | **Infrastructure & Tools** |
-|---|---|---|
-| Python 🐍 | Selenium | Linux |
-| JavaScript 📜 | Jest | Git |
-| Java ☕ | HTML/CSS | Jenkins |
-| PHP | WordPress | Mercurial |
-|  |  | Cloud QA Platforms |
 
-#### Preferences
-| **Software** | **Hardware** | **Accessories** |
-|---|---|---|
-| VS Code | [M1 MacBook Air](https://support.apple.com/en-us/111883)  | [Logitech MX Ergo Wireless Trackball Mouse](https://www.logitech.com/en-us/shop/p/mx-ergo-wireless-trackball-mouse) |
-| Vim | [reMarkable 2](https://remarkable.com/store/remarkable-2)  | |
-| Postman | | |
 
 ### Connect
 
