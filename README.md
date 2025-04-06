@@ -98,9 +98,9 @@ I would edit windows registry files to get my things working, and I had modest k
 I was teaching overseas (teaching English in Japan) when I saw the film "An Inconvenient Truth," which motivated me to return to the US for grad school in the environment. After returning to Michigan I found work as a Microcomputer Repair Technician at a major hospital, because of my history building, tinkering, and repairing machines, and it was a job I only left because of grad school. During grad school, I learned a lot about Natural Resources, and resource economics and public vs private vs government interests, and [how common goods can lead to tragedy](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), and how "good mechanisms beat good intentions."
 
 [![Stop Faking It! Electricity and Magnetism](./media/img/sfi.jpg)](https://www.nsta.org/book-series/stop-faking-it#tab-books)
->*Stop Faking It! Electricity and Magnetism*'
+>*Stop Faking It! Electricity and Magnetism*
 >
->Helped with my intuitive understanding of how certain processes elapse.
+>Helped with my intuitive understanding of how certain observed processes.
 
 I was very interested in renewable energy, not just from a policy or academic level, but from an intimate, intuitive perspective. After completing my graduate school studies a thesis project the first project I built was a lawn-mower turned into a AC electrical generator.
 
