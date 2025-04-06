@@ -77,7 +77,7 @@ I credit my parents for fostering my interests in water and energy from an early
 
 > *The Magic Schoolbus -- At the Waterworks*
 >
-> My mom and dad--they gave me so much.
+> My mom and dad gave their children everything they could.
 
 ---
 In fourth grade my mom brought home our first (expensive) Personal Computer, an Acer 486 DXII 50Mhz computer with 420Mb of harddrive storage and 2MB of included RAM, (which we later upgraded to a whopping 4MB, by lugging the entire large desktop case to a local computer store. Good times.)
