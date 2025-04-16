@@ -1,4 +1,5 @@
-# Ruth Prudence | Testing, Development, Analysis, Design
+# Ruth Prudence
+## Testing, Development, Analysis, Design
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ruthprudence&color=blueviolet)
 
@@ -8,13 +9,21 @@
 
 [Biography](BIO.md)
 
-## Summary
+[Remember](#remember)
 
-I take great joy in solving problems, and looking for ways to solve problems better. I approach every challenge as an opportunity to understand the core issue (some might call this "first principles" thinking), leveraging available resources and technologies to create sustainable solutions. When I think "available resources" I think of the [A-Team](https://en.wikipedia.org/wiki/The_A-Team), and when I say "sustainable solutions" I mean: if it doesn't work every time, it doesn't work, and it should work for *everybody*.
+### Summary
+
+I take great joy in solving problems, and looking for ways to solve problems better. I approach every challenge as an opportunity to understand the core issue (some might call this "first principles" thinking), leveraging available resources and technologies to create sustainable solutions. When I think "available resources" I think of the A-Team<sup>[1](#footnote1)</sup>, and when I say "sustainable solutions" I mean: if it doesn't work every time, it doesn't work, and it should work for *everybody*.
 
 I achieve great success by systematically improving processes, meaning everything is always on the table when it comes to improving things (including my personal diet, habits, relationships, creations)--I own up to my failures and love leaving people and projects better than when I arrived. I am a believer in "1% improvement every day" in as many dimensions as possible.
 
 Whether it's through code, documentation, mentorship, strategic problem-solving, or a burst of enthusiastic positivity, my goal is to create lasting beneficial impact.
+
+<a id="footnote1"></a>
+[1]: "..the team's *ingenuity* in *improvising* weaponry and vehicles out of *seemingly random parts*" 
+--[A-Team (Wikipedia)](https://en.wikipedia.org/wiki/The_A-Team)
+
+---
 
 ### Career
 
@@ -51,7 +60,7 @@ Personally, my latest projects are:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthprudence&layout=compact&theme=radical) -->
 
 
-### Connect
+## Connect
 
 - 📧 work@ruthprudence.com
 - 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
@@ -59,8 +68,8 @@ Personally, my latest projects are:
 
 [Biography](./BIO.md)
 
-
 ---
+### Remember
 
 - *No matter how vast the darkness, we must provide our own light.* --Stanley Kubrick
 
