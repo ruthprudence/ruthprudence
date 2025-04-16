@@ -6,9 +6,11 @@
 
 [Career](#career)
 
+[Biography](BIO.md)
+
 ## Summary
 
-I take great joy in solving problems, and looking for ways to solve problems better. I approach every challenge as an opportunity to understand the core issue (some might call this "first principles" thinking), leveraging available resources and technologies to create sustainable solutions. When I think "available resources" I think of the [A]-Team](https://en.wikipedia.org/wiki/The_A-Team), and when I say "sustainable solutions" I mean: if it doesn't work every time, it doesn't work, and it should work for *everybody*.
+I take great joy in solving problems, and looking for ways to solve problems better. I approach every challenge as an opportunity to understand the core issue (some might call this "first principles" thinking), leveraging available resources and technologies to create sustainable solutions. When I think "available resources" I think of the [A-Team](https://en.wikipedia.org/wiki/The_A-Team), and when I say "sustainable solutions" I mean: if it doesn't work every time, it doesn't work, and it should work for *everybody*.
 
 I achieve great success by systematically improving processes, meaning everything is always on the table when it comes to improving things (including my personal diet, habits, relationships, creations)--I own up to my failures and love leaving people and projects better than when I arrived. I am a believer in "1% improvement every day" in as many dimensions as possible.
 
@@ -72,7 +74,7 @@ Personally, my latest projects are:
 - 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
 
 
-
+[Biography](./BIO.md)
 
 
 ---
