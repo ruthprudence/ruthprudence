@@ -55,7 +55,7 @@ I was very interested in renewable energy, not just from a policy or academic le
 
 Because I was self-taught, I did a lot of research online, finding the right parts that would work (pulleys, belts) and building a very loud, noisy, and operational generator. I also had a very marginal budget to work with.
 
-The generator consisted of a repurposed lawn mower engine bolted to a steel frame, with a pulley at the bottom of the lawnmower shafter connected via belt to an alternator also bolted down to the same steel frame (with its own press-fit pulley).
+The generator consisted of a repurposed lawn mower engine bolted to a steel frame, with a pulley at the bottom of the lawnmower shaft, connected via belt to an alternator also bolted down to the same steel frame (with its own press-fit pulley).
 
 I grounded the whole system by hammering a spike into the ground and connected it via jumper cables, and attached an inverter to the alternator so AC power was available (in case of blackouts). Of course, a lawnmower engine is very noisy!
 
