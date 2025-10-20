@@ -7,8 +7,6 @@
 
 [Career](#career)
 
-[Biography](BIO.md)
-
 [Remember](#remember)
 
 ### Summary
@@ -65,8 +63,6 @@ Personally, my latest projects are:
 - 📧 work@ruthprudence.com
 - 💼 [LinkedIn](https://linkedin.com/in/ruthmansoor/)
 
-
-[Biography](./BIO.md)
 
 ---
 ### Remember
